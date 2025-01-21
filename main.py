@@ -151,7 +151,7 @@ async def account_login(bot: Client, m: Message):
     raw_text3 = input3.text    
     await input3.delete(True)    
     if raw_text3 == '1':    
-        MR = निखिल सैनी   
+        MR = credit  
     else:    
         MR = raw_text3
 
